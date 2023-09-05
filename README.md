@@ -14,7 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset=""C:\Users\S567092\Documents\webapps-repos\my2-sriperumbudoor\navya.jpeg"">
- <img alt="Passport Photo" src="YOUR-DEFAULT-IMAGE">
-</picture>
+
