@@ -8,9 +8,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 🔭 I’m currently working on 
-
--->
 Here are some ideas to get you started:
+-->
+
 
 
 - 🌱 I’m currently pursuing my Maters in Applied Computer Science at Northwest Missouri State University.
