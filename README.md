@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 
 
-- 🌱 I’m currently pursuing my Maters in Applied Computer Science at Northwest Missouri State University.
+- 🌱 I’m currently pursuing my Masters in Applied Computer Science at Northwest Missouri State University.
 - 🔭 I’m currently learning Java,CSS,HTML,GitHub etc.
 - 👯 I’m interested in singing and reading books.
 .
